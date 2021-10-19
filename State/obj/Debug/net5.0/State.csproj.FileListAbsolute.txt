@@ -1,0 +1,16 @@
+C:\Users\Admin\source\repos\Observer_State_Strategy_DesignPatterns\State\bin\Debug\net5.0\State.exe
+C:\Users\Admin\source\repos\Observer_State_Strategy_DesignPatterns\State\bin\Debug\net5.0\State.deps.json
+C:\Users\Admin\source\repos\Observer_State_Strategy_DesignPatterns\State\bin\Debug\net5.0\State.runtimeconfig.json
+C:\Users\Admin\source\repos\Observer_State_Strategy_DesignPatterns\State\bin\Debug\net5.0\State.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Observer_State_Strategy_DesignPatterns\State\bin\Debug\net5.0\State.dll
+C:\Users\Admin\source\repos\Observer_State_Strategy_DesignPatterns\State\bin\Debug\net5.0\ref\State.dll
+C:\Users\Admin\source\repos\Observer_State_Strategy_DesignPatterns\State\bin\Debug\net5.0\State.pdb
+C:\Users\Admin\source\repos\Observer_State_Strategy_DesignPatterns\State\obj\Debug\net5.0\State.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Observer_State_Strategy_DesignPatterns\State\obj\Debug\net5.0\State.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Observer_State_Strategy_DesignPatterns\State\obj\Debug\net5.0\State.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Observer_State_Strategy_DesignPatterns\State\obj\Debug\net5.0\State.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Observer_State_Strategy_DesignPatterns\State\obj\Debug\net5.0\State.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Observer_State_Strategy_DesignPatterns\State\obj\Debug\net5.0\State.dll
+C:\Users\Admin\source\repos\Observer_State_Strategy_DesignPatterns\State\obj\Debug\net5.0\ref\State.dll
+C:\Users\Admin\source\repos\Observer_State_Strategy_DesignPatterns\State\obj\Debug\net5.0\State.pdb
+C:\Users\Admin\source\repos\Observer_State_Strategy_DesignPatterns\State\obj\Debug\net5.0\State.genruntimeconfig.cache
